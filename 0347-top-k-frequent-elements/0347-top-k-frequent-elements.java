@@ -5,15 +5,21 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0)+1);
         }
 
-        List<int[]> list = new ArrayList<>();
-        for(Map.Entry<Integer, Integer> entry:map.entrySet()){
-            list.add(new int[]{entry.getKey(), entry.getValue()});
+        // List<int[]> list = new ArrayList<>();
+        // for(Map.Entry<Integer, Integer> entry:map.entrySet()){
+        //     list.add(new int[]{entry.getValue(), entry.getKey()});
+        // }
+        // list.sort((a,b) -> b[0]-a[0]);
+
+        PriorityQueue<int[]> queue = new PriorityQueue<>((a,b) -> b[0] - a[0]);
+        for(Map.Entry<Integer, Integer> entry : map.entrySet()){
+            queue.offer(new int[]{entry.getValue(), entry.getKey()});
         }
-        list.sort((a,b) -> b[1]-a[1]);
 
         int[] res = new int[k];
         for(int i=0; i<k; i++){
-            res[i] = list.get(i)[0];
+            // res[i] = list.get(i)[1];
+            res[i] = queue.poll()[1];
         }
         return res;
     }
