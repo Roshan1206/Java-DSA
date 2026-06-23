@@ -1,4 +1,5 @@
 # Java-DSA
+Welcome to my **Java-DSA** repository! This project serves as a personal log of my journey through Data Structures and Algorithms, containing my solutions to various LeetCode problems implemented in **Java**.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
