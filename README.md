@@ -6,6 +6,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshan1206/Java-DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Roshan1206/Java-DSA/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Roshan1206/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Roshan1206/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -13,6 +14,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshan1206/Java-DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Roshan1206/Java-DSA/tree/master/0036-valid-sudoku) |
 | [0217-contains-duplicate](https://github.com/Roshan1206/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -44,4 +46,8 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Roshan1206/Java-DSA/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Roshan1206/Java-DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
