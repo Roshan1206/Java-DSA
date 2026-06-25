@@ -6,6 +6,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshan1206/Java-DSA/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Roshan1206/Java-DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Roshan1206/Java-DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshan1206/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshan1206/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -23,6 +24,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Roshan1206/Java-DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Roshan1206/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
@@ -60,6 +62,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Roshan1206/Java-DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Roshan1206/Java-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshan1206/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
