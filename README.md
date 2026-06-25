@@ -56,4 +56,12 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Roshan1206/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Roshan1206/Java-DSA/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Roshan1206/Java-DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
