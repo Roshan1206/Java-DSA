@@ -20,6 +20,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roshan1206/Java-DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Roshan1206/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Roshan1206/Java-DSA/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshan1206/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Roshan1206/Java-DSA/tree/master/0217-contains-duplicate) |
@@ -73,6 +74,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Roshan1206/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Roshan1206/Java-DSA/tree/master/0125-valid-palindrome) |
 ## Binary Search
 |  |
@@ -95,4 +97,8 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Roshan1206/Java-DSA/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Roshan1206/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
