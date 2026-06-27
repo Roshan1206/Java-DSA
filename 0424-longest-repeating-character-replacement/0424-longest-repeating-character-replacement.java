@@ -8,7 +8,7 @@ class Solution {
             counts.put(s.charAt(fast), counts.getOrDefault(s.charAt(fast), 0) + 1);
             maxF = Math.max(maxF, counts.get(s.charAt(fast)));
 
-            while((fast-slow+1)-maxF > k){
+            if((fast-slow+1)-maxF > k){
                 counts.put(s.charAt(slow), counts.get(s.charAt(slow))-1);
                 slow++;
             }
