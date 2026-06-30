@@ -26,6 +26,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0217-contains-duplicate](https://github.com/Roshan1206/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshan1206/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Roshan1206/Java-DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -72,12 +73,14 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0042-trapping-rain-water](https://github.com/Roshan1206/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Roshan1206/Java-DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshan1206/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/Roshan1206/Java-DSA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshan1206/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Roshan1206/Java-DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshan1206/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Roshan1206/Java-DSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +107,5 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshan1206/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshan1206/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Roshan1206/Java-DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
