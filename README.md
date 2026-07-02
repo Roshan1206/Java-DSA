@@ -102,6 +102,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Roshan1206/Java-DSA/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/Roshan1206/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -117,9 +118,14 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Roshan1206/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Roshan1206/Java-DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Roshan1206/Java-DSA/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Roshan1206/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
