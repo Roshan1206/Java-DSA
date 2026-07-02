@@ -1,38 +1,43 @@
 class MyQueue {
+    Stack<Integer> primary = new Stack<>();
+    Stack<Integer> secondary = new Stack<>();
 
-    private int[] arr;
-    private final static int DEFAULT_SIZE = 10;
-    int ptr = 0;
     public MyQueue() {
-        arr = new int[DEFAULT_SIZE];
+        
     }
     
     public void push(int x) {
-        if(ptr == arr.length){
-            int[] temp = new int[arr.length*2];
-            for(int i=0; i<arr.length; i++){
-                temp[i] = arr[i];
-            }
-            arr = temp;
-        }
-        arr[ptr++] = x;
+        primary.push(x);
     }
     
     public int pop() {
-        int el = arr[0];
-        for(int i=1; i<arr.length; i++){
-            arr[i-1] = arr[i];
+        while(!empty()){
+            secondary.push(primary.pop());
         }
-        ptr--;
-        return el;
+
+        int element = secondary.pop();
+
+        while(!secondary.isEmpty()){
+            primary.push(secondary.pop());
+        }
+        return element;
     }
     
     public int peek() {
-        return arr[0];
+        while(!empty()){
+            secondary.push(primary.pop());
+        }
+
+        int element = secondary.peek();
+
+        while(!secondary.isEmpty()){
+            primary.push(secondary.pop());
+        }
+        return element;
     }
     
     public boolean empty() {
-        return ptr == 0;
+        return primary.isEmpty();
     }
 }
 
