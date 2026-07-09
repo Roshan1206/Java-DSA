@@ -104,6 +104,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Roshan1206/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Roshan1206/Java-DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Roshan1206/Java-DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Roshan1206/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
@@ -129,5 +130,6 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Roshan1206/Java-DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Roshan1206/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
