@@ -1,5 +1,6 @@
 class Solution {
     public boolean isValid(String s) {
+        if(s.length()==0 || s.length()%2!=0) return false;
         Map<Character, Character> pairs = new HashMap<>();
         pairs.put(')', '(');
         pairs.put(']', '[');
