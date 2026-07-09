@@ -4,7 +4,8 @@ class Solution {
 
         for(String s : tokens){
             switch(s){
-                case "+", "-", "*", "/" -> {
+                case "+", "-", "*", "/" -> 
+                {
                     int second = nums.pop();
                     int first = nums.pop();
 
