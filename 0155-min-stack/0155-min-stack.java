@@ -1,42 +1,41 @@
 class MinStack {
-    private Stack<Integer> stack;
-    private Stack<Integer> minStack;
+    private int[] stack;
+    private int[] minStack;
+    private int top;
 
     public MinStack() {
-        stack = new Stack<>();
-        minStack = new Stack<>();
+        stack = new int[16];
+        minStack = new int[16];
+        top = -1;
     }
-    
+
     public void push(int value) {
-        stack.push(value);
-        if(minStack.isEmpty()) {
-            minStack.push(value);
-        } else{
-            if(value <= minStack.peek())
-                minStack.push(Math.min(value, minStack.peek()));
+        top++;
+        if (top == stack.length) {
+            resize();
+        }
+        stack[top] = value;
+        if (top == 0 || value <= minStack[top - 1]) {
+            minStack[top] = value;
+        } else {
+            minStack[top] = minStack[top - 1];
         }
     }
-    
+
     public void pop() {
-        if(stack.peek().equals(minStack.peek()))
-            minStack.pop();
-        stack.pop();
+        top--;
     }
-    
+
     public int top() {
-        return stack.peek();
+        return stack[top];
     }
-    
+
     public int getMin() {
-        return minStack.peek();
+        return minStack[top];
+    }
+
+    private void resize() {
+        stack = java.util.Arrays.copyOf(stack, stack.length * 2);
+        minStack = java.util.Arrays.copyOf(minStack, minStack.length * 2);
     }
 }
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack obj = new MinStack();
- * obj.push(value);
- * obj.pop();
- * int param_3 = obj.top();
- * int param_4 = obj.getMin();
- */
