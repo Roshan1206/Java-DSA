@@ -1,24 +1,18 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
-        for(int[] nums: matrix){
-            if(search(nums, target)){
-                return true;
-            }
-        }
-        return false;
-    }
-
-    private boolean search(int[] nums, int target){
-        int start = 0, end = nums.length-1;
-
+        int rows = matrix.length, cols = matrix[0].length;
+        int start=0, end = rows*cols-1;
         while(start <= end){
             int mid = start + (end - start)/2;
+            int r = mid/cols;
+            int c = mid%cols;
+            int midValue = matrix[r][c];
 
-            if(nums[mid] == target){
+            if(midValue == target){
                 return true;
             }
 
-            if(nums[mid] > target){
+            if(midValue > target){
                 end = mid-1;
             }else {
                 start = mid+1;
