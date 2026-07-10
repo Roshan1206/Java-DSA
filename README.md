@@ -10,6 +10,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0015-3sum](https://github.com/Roshan1206/Java-DSA/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Roshan1206/Java-DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Roshan1206/Java-DSA/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/Roshan1206/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Roshan1206/Java-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshan1206/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshan1206/Java-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -69,6 +70,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Roshan1206/Java-DSA/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/Roshan1206/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Roshan1206/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshan1206/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Roshan1206/Java-DSA/tree/master/0704-binary-search) |
 ## Greedy
