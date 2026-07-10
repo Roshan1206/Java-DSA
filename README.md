@@ -18,6 +18,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0238-product-of-array-except-self](https://github.com/Roshan1206/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Roshan1206/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/Roshan1206/Java-DSA/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Roshan1206/Java-DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Roshan1206/Java-DSA/tree/master/0853-car-fleet) |
 ## Hash Table
@@ -94,6 +95,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshan1206/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Roshan1206/Java-DSA/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
