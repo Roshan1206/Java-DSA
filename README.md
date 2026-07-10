@@ -19,6 +19,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0239-sliding-window-maximum](https://github.com/Roshan1206/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0739-daily-temperatures](https://github.com/Roshan1206/Java-DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Roshan1206/Java-DSA/tree/master/0853-car-fleet) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0015-3sum](https://github.com/Roshan1206/Java-DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Roshan1206/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
+| [0853-car-fleet](https://github.com/Roshan1206/Java-DSA/tree/master/0853-car-fleet) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,11 +112,13 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0155-min-stack](https://github.com/Roshan1206/Java-DSA/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Roshan1206/Java-DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Roshan1206/Java-DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Roshan1206/Java-DSA/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Roshan1206/Java-DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Roshan1206/Java-DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Roshan1206/Java-DSA/tree/master/0853-car-fleet) |
 ## Sliding Window
 |  |
 | ------- |
