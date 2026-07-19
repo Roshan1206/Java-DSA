@@ -72,7 +72,8 @@ No solutions included — this is for you to solve. Pattern hints are given so y
 ---
 
 ### 7. Next Greater Element I
-**Description:** For each element in `nums1` (a subset of `nums2`), find the next greater element to its right in `nums2`. Return `-1` if none exists.
+**Description:** For each element in `nums1` (a subset of `nums2`), find the next greater element to its right in `nums2`. 
+Return `-1` if none exists.
 
 **Input:** `nums1 = [4,1,2]`, `nums2 = [1,3,4,2]`
 **Output:** `[-1,3,-1]`

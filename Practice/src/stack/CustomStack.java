@@ -1,4 +1,4 @@
-package implementation;
+package stack;
 
 import java.util.EmptyStackException;
 import java.util.Iterator;

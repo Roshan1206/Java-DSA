@@ -20,6 +20,7 @@ public class ValidParantheses {
     public static void main(String[] args) {
         System.out.println(isValid("{[()]}"));
         System.out.println(isValid("{[(])}"));
+        System.out.println(isValid("(])"));
     }
 
     static boolean isValid(String str) {
@@ -33,6 +34,8 @@ public class ValidParantheses {
             if(!deque.isEmpty() && pairs.containsKey(c)) {
                 if(pairs.get(c) == deque.peek()){
                     deque.poll();
+                } else {
+                    return false;
                 }
             } else {
                 deque.push(c);
