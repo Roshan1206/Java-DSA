@@ -16,6 +16,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Roshan1206/Java-DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Roshan1206/Java-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Roshan1206/Java-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Roshan1206/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Roshan1206/Java-DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Roshan1206/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
@@ -31,6 +32,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0076-minimum-window-substring](https://github.com/Roshan1206/Java-DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Roshan1206/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Roshan1206/Java-DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Roshan1206/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshan1206/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Roshan1206/Java-DSA/tree/master/0567-permutation-in-string) |
@@ -129,6 +131,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Roshan1206/Java-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Roshan1206/Java-DSA/tree/master/0076-minimum-window-substring) |
+| [0219-contains-duplicate-ii](https://github.com/Roshan1206/Java-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Roshan1206/Java-DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshan1206/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Roshan1206/Java-DSA/tree/master/0567-permutation-in-string) |
