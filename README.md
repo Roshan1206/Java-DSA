@@ -33,6 +33,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0128-longest-consecutive-sequence](https://github.com/Roshan1206/Java-DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Roshan1206/Java-DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Roshan1206/Java-DSA/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Roshan1206/Java-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshan1206/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Roshan1206/Java-DSA/tree/master/0567-permutation-in-string) |
@@ -41,6 +42,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | ------- |
 | [0015-3sum](https://github.com/Roshan1206/Java-DSA/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Roshan1206/Java-DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Roshan1206/Java-DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Roshan1206/Java-DSA/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/Roshan1206/Java-DSA/tree/master/0853-car-fleet) |
 ## Divide and Conquer
@@ -93,6 +95,7 @@ Welcome to my **Java-DSA** repository! This project serves as a personal log of 
 | [0020-valid-parentheses](https://github.com/Roshan1206/Java-DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Roshan1206/Java-DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Roshan1206/Java-DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Roshan1206/Java-DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Roshan1206/Java-DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Roshan1206/Java-DSA/tree/master/0567-permutation-in-string) |
 ## Binary Search
